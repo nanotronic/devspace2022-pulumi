@@ -1,0 +1,4 @@
+config:
+  lab1:myname: nano-staging
+  lab1:mysecret:
+    secure: AAABAPYl7wGHVooL+iWUM7CnBKP04bIg/0Xakyt8GODNGBEWVwgQM5R9AQ2cYw==

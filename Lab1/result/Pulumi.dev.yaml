@@ -1,0 +1,4 @@
+config:
+  lab1:myname: nano-dev
+  lab1:mysecret:
+    secure: AAABAJLqGZYc1ssBBvH9q2244v5Mv4lmPoemn6PgaVdRSo1M2OiJPiSx
